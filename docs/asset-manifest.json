@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/YS_JAVA01_MOVIE_REACT/static/css/main.84326e2b.css",
-    "main.js": "/YS_JAVA01_MOVIE_REACT/static/js/main.879d3c95.js",
+    "main.css": "/YS_JAVA01_MOVIE_REACT/static/css/main.9880b8e6.css",
+    "main.js": "/YS_JAVA01_MOVIE_REACT/static/js/main.15b1201b.js",
     "static/js/453.a120608d.chunk.js": "/YS_JAVA01_MOVIE_REACT/static/js/453.a120608d.chunk.js",
     "index.html": "/YS_JAVA01_MOVIE_REACT/index.html",
-    "main.84326e2b.css.map": "/YS_JAVA01_MOVIE_REACT/static/css/main.84326e2b.css.map",
-    "main.879d3c95.js.map": "/YS_JAVA01_MOVIE_REACT/static/js/main.879d3c95.js.map",
+    "main.9880b8e6.css.map": "/YS_JAVA01_MOVIE_REACT/static/css/main.9880b8e6.css.map",
+    "main.15b1201b.js.map": "/YS_JAVA01_MOVIE_REACT/static/js/main.15b1201b.js.map",
     "453.a120608d.chunk.js.map": "/YS_JAVA01_MOVIE_REACT/static/js/453.a120608d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.84326e2b.css",
-    "static/js/main.879d3c95.js"
+    "static/css/main.9880b8e6.css",
+    "static/js/main.15b1201b.js"
   ]
 }
