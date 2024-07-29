@@ -11,7 +11,7 @@ function App() {
     <BrowserRouter>
       <Navigation/>
       <Routes>
-      <Route path="/" element={<Home/>}/>
+      <Route path="/" extract={true} element={<Home/>}/>
       <Route path="/YS_JAVA01_MOVIE_REACT" element={<Home/>}/>      
       <Route path="/about" element={<About/>}/>
       <Route path="/detail" element={<Detail/>}/>
