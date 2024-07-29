@@ -37,7 +37,7 @@ export function Home() {
     return (
       <div>
         <h1>Movie List(Home)</h1>
-        <ul>
+        <ul className='movies'>
           {
             movies.map(item =>{
               return (
