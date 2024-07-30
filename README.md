@@ -1,5 +1,38 @@
 # 영화 리튜 사이트 만들기 ---
 ### &nbsp;$nbsp; 1. 프로젝트 생성, Github 연결
+### &nbsp;$nbsp; 2. git page 배포 설정
+### &nbsp;$nbsp; 3. 로딩연습
+### &nbsp;$nbsp; 4. 영화목록읽고 화면표시
+### &nbsp;$nbsp; 5. 라우팅
+### &nbsp;$nbsp; 6. 스타일적용
+### &nbsp;$nbsp; 7. 영화목록아이템(Movie콤포넌트)적용, 상세보기
+
+초입경로  ( App )
+                  주소-> 콤포넌트 매칭정보
+메뉴        ( Navigation )
+                     메뉴명 -> 주소경로
+목록페이지  ( Home )
+                     데이터읽어오기(axios)
+                        - 비동기적으로 처리(async,await)                         
+
+                     데이터를 화면출력
+                       -  state(isLoading)를 사용해서 
+                         데이터를 완전히 읽은후 화면출력
+                       -  반복함수(map)을사용해서
+                         Movie콤포넌트에
+                         영화정보를 props로 전달
+ 영화정보 ( Movie )
+                     - 홈에서 읽은 데이터를
+	         Props 전달받아서 화면에 출력
+
+상세페이지  ( Detail )
+                     - Movie로부터 영화 ID받아서
+                      해당영화 정보를 axios를 이용해서 읽어옴
+                               
+                     - state(isLoading)를 사용해서 
+                      데이터를 완전히 읽은후 화면출력
+어바웃페이지 ( About )
+                            
 
 # Getting Started with Create React App
 
