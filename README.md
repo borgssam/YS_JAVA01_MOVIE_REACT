@@ -1,6 +1,12 @@
 # 영화 리튜 사이트 만들기 ---
 ### &nbsp;&nbsp; 1. 프로젝트 생성, Github 연결
 ### &nbsp;&nbsp; 2. git page 배포 설정
+###### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - github page설정 : Setting > Pages
+![image](https://github.com/user-attachments/assets/94a57af9-8cdd-4c4d-ba2a-7caa718b5c2b)
+
+###### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - 프로젝트에서 Build 설정변경
+![image](https://github.com/user-attachments/assets/40a167bd-7538-450a-a2b9-58e34720d92f)
+
 ### &nbsp;&nbsp; 3. 로딩연습
 ### &nbsp;&nbsp; 4. 영화목록읽고 화면표시
 ### &nbsp;&nbsp; 5. 라우팅
